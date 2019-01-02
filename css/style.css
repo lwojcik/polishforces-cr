@@ -1,0 +1,96 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background: #333;
+  color:#fff;
+}
+
+.header {
+  margin-top: 60px;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid #666;
+}
+
+.header p {
+  font-size: 1rem;
+  margin: 2rem 0;
+  text-align: center;
+}
+
+a {
+  color: #92BCF2;
+
+}
+
+a:hover,
+a:focus {
+  color:#7EB6FF;
+
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+}
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  text-align: center;
+}
+
+h1 img {
+  display:block;
+  margin:0 auto;
+}
+
+.social ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.social ul li {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.social .btn.btn-lg {
+  width: 75%;
+  margin: 0 auto;
+  color:#fff;
+  text-align: center;
+}
+
+.social .btn {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.social .store-icon {
+  width:180px;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+}
+
+.social .appstore-links {
+  text-align-last: left;
+}
+
+.social .invite-links {
+  min-height:250px;
+}
+
+.footer {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #666;
+  text-align: right;
+}
+
+.footer p,
+.footer small {
+  font-size: 0.75rem;
+  font-family: 'Open Sans', sans-serif;
+}
